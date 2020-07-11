@@ -1,3 +1,5 @@
+'use strict';
+
 const path = require('path');
 const AppEvents = require(path.join(__dirname, '../events'));
 const Joi = require('@hapi/joi');
